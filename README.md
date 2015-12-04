@@ -1,2 +1,2 @@
-# TopHaus-API
-This is a RESTful API using the Django-REST-framework
+# TopHaus-REST-API
+CS411 Project 
